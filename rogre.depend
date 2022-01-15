@@ -1,0 +1,1047 @@
+# depslib dependency file v1.0
+1641141349 source:/media/djoker/code/linux/cpp/ogre/samples/rogre/main.cpp
+	<exception>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<OgreCamera.h>
+	<OgreEntity.h>
+	<OgreSceneNode.h>
+	<OgreFrameListener.h>
+	<OgreLogManager.h>
+	<OgreRoot.h>
+	<OgreViewport.h>
+	<OgreSceneManager.h>
+	<OgreRenderWindow.h>
+	<OgreConfigFile.h>
+	<OgreMaterialManager.h>
+	<OgreTextureManager.h>
+	<OgreMeshManager.h>
+	<OgreRTShaderSystem.h>
+	<OgreMovablePlane.h>
+	<OgreFrameListener.h>
+	<OgrePageManager.h>
+	<OgreTerrain.h>
+	<OgreTerrainGroup.h>
+	<OgreTerrainQuadTreeNode.h>
+	<OgreTerrainMaterialGeneratorA.h>
+	<OgreTerrainPaging.h>
+	"raymath.h"
+	"rogre.h"
+	"raygui.h"
+	"msf_gif.h"
+	"input.cc"
+	"core.cc"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreCamera.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreFrustum.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgrePrerequisites.h
+	"OgrePlatform.h"
+	<string>
+	<memory>
+	"OgreStdHeaders.h"
+	"OgreMemoryAllocatorConfig.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgrePlatform.h
+	"OgreConfig.h"
+	"OgreExports.h"
+	<sdkddkver.h>
+	<winapifamily.h>
+	"Availability.h"
+	<stdint.h>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreConfig.h
+	"OgreBuildSettings.h"
+
+1640973559 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreBuildSettings.h
+
+1640973560 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreExports.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreStdHeaders.h
+	<cassert>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<cstdarg>
+	<cmath>
+	<vector>
+	<map>
+	<string>
+	<set>
+	<list>
+	<unordered_map>
+	<algorithm>
+	<ostream>
+	<iosfwd>
+	<atomic>
+	<emscripten/emscripten.h>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMemoryAllocatorConfig.h
+	"OgreAlignedAllocator.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreAlignedAllocator.h
+	<cstdlib>
+	"OgrePlatform.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreCommon.h
+	"OgreVector.h"
+	"OgreHeaderPrefix.h"
+	"OgreMurmurHash3.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreVector.h
+	"OgrePrerequisites.h"
+	"OgreMath.h"
+	"OgreQuaternion.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMath.h
+	<limits>
+	"OgrePrerequisites.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreHeaderPrefix.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreHeaderSuffix.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreQuaternion.h
+	"OgrePrerequisites.h"
+	"OgreMath.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMurmurHash3.h
+	"OgrePlatform.h"
+	<cstddef>
+	<stdint.h>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreFrustum.h
+	"OgrePrerequisites.h"
+	"OgreMovableObject.h"
+	"OgreAxisAlignedBox.h"
+	"OgreVertexIndexData.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMovableObject.h
+	"OgrePrerequisites.h"
+	"OgreAxisAlignedBox.h"
+	"OgreSphere.h"
+	"OgreShadowCaster.h"
+	"OgreAnimable.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreAxisAlignedBox.h
+	<array>
+	"OgrePrerequisites.h"
+	"OgreMatrix4.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMatrix4.h
+	"OgrePrerequisites.h"
+	"OgreMatrix3.h"
+	"OgreVector.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMatrix3.h
+	"OgrePrerequisites.h"
+	"OgreVector.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSphere.h
+	"OgrePrerequisites.h"
+	"OgreVector.h"
+	"OgrePlane.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgrePlane.h
+	"OgrePrerequisites.h"
+	"OgreVector.h"
+	"OgreAxisAlignedBox.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreShadowCaster.h
+	"OgrePrerequisites.h"
+	"OgreRenderable.h"
+	"OgreRenderOperation.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderable.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreGpuProgram.h"
+	"OgreGpuProgramParams.h"
+	"OgreMatrix4.h"
+	"OgreMaterial.h"
+	"OgrePlane.h"
+	"OgreVector.h"
+	"OgreException.h"
+	"OgreUserObjectBindings.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreGpuProgram.h
+	"OgrePrerequisites.h"
+	"OgreResource.h"
+	"OgreGpuProgramParams.h"
+	"OgreHeaderPrefix.h"
+	"OgreVector.h"
+	"OgreSharedPtr.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreResource.h
+	"OgrePrerequisites.h"
+	"OgreStringInterface.h"
+	"OgreHeaderPrefix.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreStringInterface.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreHeaderPrefix.h"
+	"OgreStringConverter.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreStringConverter.h
+	"OgreCommon.h"
+	"OgrePrerequisites.h"
+	"OgreStringVector.h"
+	"OgreColourValue.h"
+	"OgreMatrix4.h"
+	"OgreVector.h"
+	<stdlib.h>
+	<xlocale.h>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreStringVector.h
+	"OgrePrerequisites.h"
+	"OgreSharedPtr.h"
+	"OgreString.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSharedPtr.h
+	"OgrePrerequisites.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreString.h
+	"OgrePrerequisites.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreColourValue.h
+	"OgrePrerequisites.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadHeaders.h
+	"OgreThreadHeadersBoost.h"
+	"OgreThreadHeadersPoco.h"
+	"OgreThreadHeadersTBB.h"
+	"OgreThreadHeadersSTD.h"
+	"OgreThreadDefines.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadHeadersBoost.h
+	<boost/thread/tss.hpp>
+	<boost/thread/recursive_mutex.hpp>
+	<boost/thread/condition.hpp>
+	<boost/thread/thread.hpp>
+	<boost/thread/shared_mutex.hpp>
+	<boost/thread/locks.hpp>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadHeadersPoco.h
+	<Poco/ThreadLocal.h>
+	<Poco/Mutex.h>
+	<Poco/Condition.h>
+	<Poco/Thread.h>
+	<Poco/Runnable.h>
+	<Poco/RWLock.h>
+	<Poco/Environment.h>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadHeadersTBB.h
+	<tbb/recursive_mutex.h>
+	<tbb/task_group.h>
+	<tbb/task_scheduler_init.h>
+	<tbb/queuing_rw_mutex.h>
+	<tbb/enumerable_thread_specific.h>
+	<tbb/tbb_thread.h>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadHeadersSTD.h
+	<memory>
+	<thread>
+	<mutex>
+	<condition_variable>
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadDefines.h
+	"OgreThreadDefinesNone.h"
+	"OgreThreadDefinesBoost.h"
+	"OgreThreadDefinesPoco.h"
+	"OgreThreadDefinesTBB.h"
+	"OgreThreadDefinesSTD.h"
+	"OgreThreadDefinesNone.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadDefinesNone.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadDefinesBoost.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadDefinesPoco.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadDefinesTBB.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Threading/OgreThreadDefinesSTD.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreGpuProgramParams.h
+	<limits>
+	"OgrePrerequisites.h"
+	"OgreSharedPtr.h"
+	"OgreSerializer.h"
+	"OgreAny.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSerializer.h
+	"OgrePrerequisites.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreAny.h
+	"OgrePrerequisites.h"
+	<typeinfo>
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMaterial.h
+	"OgrePrerequisites.h"
+	"OgreResource.h"
+	"OgreCommon.h"
+	"OgreColourValue.h"
+	"OgreBlendMode.h"
+	"OgreHeaderPrefix.h"
+	"OgreSharedPtr.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreBlendMode.h
+	"OgrePrerequisites.h"
+	"OgreColourValue.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreException.h
+	"OgrePrerequisites.h"
+	"OgreString.h"
+	<exception>
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreUserObjectBindings.h
+	"OgrePrerequisites.h"
+	"OgreAny.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderOperation.h
+	"OgrePrerequisites.h"
+	"OgreVertexIndexData.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreVertexIndexData.h
+	"OgrePrerequisites.h"
+	"OgreHardwareVertexBuffer.h"
+	"OgreHardwareIndexBuffer.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreHardwareVertexBuffer.h
+	"OgrePrerequisites.h"
+	"OgreHardwareBuffer.h"
+	"OgreSharedPtr.h"
+	"OgreColourValue.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreHardwareBuffer.h
+	"OgrePrerequisites.h"
+	"OgreException.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreHardwareIndexBuffer.h
+	"OgrePrerequisites.h"
+	"OgreHardwareBuffer.h"
+	"OgreSharedPtr.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreAnimable.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreVector.h"
+	"OgreColourValue.h"
+	"OgreStringVector.h"
+	"OgreException.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreEntity.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreMovableObject.h"
+	"OgreQuaternion.h"
+	"OgreVector.h"
+	"OgreHardwareBufferManager.h"
+	"OgreRenderable.h"
+	"OgreResourceGroupManager.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreHardwareBufferManager.h
+	"OgrePrerequisites.h"
+	"OgreSingleton.h"
+	"OgreHardwareIndexBuffer.h"
+	"OgreHardwareVertexBuffer.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSingleton.h
+	"OgrePrerequisites.h"
+	"OgreException.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreResourceGroupManager.h
+	"OgrePrerequisites.h"
+	"OgreSingleton.h"
+	"OgreDataStream.h"
+	"OgreArchive.h"
+	"OgreIteratorWrapper.h"
+	"OgreCommon.h"
+	"Threading/OgreThreadHeaders.h"
+	<ctime>
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreDataStream.h
+	"OgrePrerequisites.h"
+	"OgreSharedPtr.h"
+	<istream>
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreArchive.h
+	"OgrePrerequisites.h"
+	"OgreDataStream.h"
+	"OgreStringVector.h"
+	<ctime>
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreIteratorWrapper.h
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSceneNode.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreNode.h"
+	"OgreAxisAlignedBox.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreNode.h
+	"OgrePrerequisites.h"
+	"OgreMatrix4.h"
+	"OgreUserObjectBindings.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreFrameListener.h
+	"OgrePrerequisites.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreLogManager.h
+	"OgrePrerequisites.h"
+	"OgreLog.h"
+	"OgreSingleton.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreLog.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderPrefix.h"
+	<fstream>
+	<sstream>
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRoot.h
+	"OgrePrerequisites.h"
+	"OgreSceneManagerEnumerator.h"
+	<exception>
+	<deque>
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSceneManagerEnumerator.h
+	"OgrePrerequisites.h"
+	"OgreSceneManager.h"
+	"OgreSingleton.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSceneManager.h
+	"OgrePrerequisites.h"
+	"OgrePlane.h"
+	"OgreQuaternion.h"
+	"OgreColourValue.h"
+	"OgreCommon.h"
+	"OgreSceneQuery.h"
+	"OgreAutoParamDataSource.h"
+	"OgreAnimationState.h"
+	"OgreRenderQueue.h"
+	"OgreRenderQueueSortingGrouping.h"
+	"OgreResourceGroupManager.h"
+	"OgreInstanceManager.h"
+	"OgreManualObject.h"
+	"OgreRenderSystem.h"
+	"OgreLodListener.h"
+	"OgreHeaderPrefix.h"
+	"OgreNameGenerator.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreSceneQuery.h
+	"OgrePrerequisites.h"
+	"OgreSphere.h"
+	"OgreRay.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRay.h
+	"OgrePrerequisites.h"
+	"OgrePlaneBoundedVolume.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgrePlaneBoundedVolume.h
+	"OgrePrerequisites.h"
+	"OgreAxisAlignedBox.h"
+	"OgreSphere.h"
+	"OgreMath.h"
+	"OgrePlane.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreAutoParamDataSource.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreLight.h"
+	"OgreSceneNode.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreLight.h
+	"OgrePrerequisites.h"
+	"OgreColourValue.h"
+	"OgreVector.h"
+	"OgreMovableObject.h"
+	"OgrePlaneBoundedVolume.h"
+	"OgreNode.h"
+	"OgreCamera.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreAnimationState.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreController.h"
+	"OgreControllerManager.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreController.h
+	"OgrePrerequisites.h"
+	"OgreSharedPtr.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreControllerManager.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreSingleton.h"
+	"OgreTextureUnitState.h"
+	"OgreSharedPtr.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreTextureUnitState.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreBlendMode.h"
+	"OgreMatrix4.h"
+	"OgreTexture.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreTexture.h
+	"OgrePrerequisites.h"
+	"OgreHardwareBuffer.h"
+	"OgreResource.h"
+	"OgreImage.h"
+	"OgreHeaderPrefix.h"
+	"OgreSharedPtr.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreImage.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgrePixelFormat.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgrePixelFormat.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreColourValue.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderQueue.h
+	"OgrePrerequisites.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderQueueSortingGrouping.h
+	"OgrePrerequisites.h"
+	"OgrePass.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgrePass.h
+	"OgrePrerequisites.h"
+	"OgreColourValue.h"
+	"OgreCommon.h"
+	"OgreLight.h"
+	"OgreTextureUnitState.h"
+	"OgreUserObjectBindings.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreInstanceManager.h
+	"OgrePrerequisites.h"
+	"OgreRenderOperation.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreManualObject.h
+	"OgrePrerequisites.h"
+	"OgreMovableObject.h"
+	"OgreRenderable.h"
+	"OgreResourceGroupManager.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderSystem.h
+	"OgrePrerequisites.h"
+	"OgreTextureUnitState.h"
+	"OgreCommon.h"
+	"OgreRenderSystemCapabilities.h"
+	"OgreConfigOptionMap.h"
+	"OgreGpuProgram.h"
+	"OgrePlane.h"
+	"OgreHardwareVertexBuffer.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderSystemCapabilities.h
+	"OgrePrerequisites.h"
+	"OgreStringVector.h"
+	"OgreStringConverter.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreConfigOptionMap.h
+	"OgrePrerequisites.h"
+	"OgreStringVector.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreLodListener.h
+	"OgrePrerequisites.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreNameGenerator.h
+	"OgreString.h"
+	<sstream>
+	"OgreHeaderPrefix.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreViewport.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreFrustum.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderWindow.h
+	"OgrePrerequisites.h"
+	"OgreRenderTarget.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderTarget.h
+	"OgrePrerequisites.h"
+	"OgrePixelFormat.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreConfigFile.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreStringVector.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMaterialManager.h
+	"OgrePrerequisites.h"
+	"OgreSingleton.h"
+	"OgreResourceManager.h"
+	"OgreHeaderPrefix.h"
+	"OgreTextureUnitState.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreResourceManager.h
+	"OgrePrerequisites.h"
+	"OgreResource.h"
+	"OgreResourceGroupManager.h"
+	"OgreCommon.h"
+	"OgreStringVector.h"
+	"OgreScriptLoader.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreScriptLoader.h
+	"OgrePrerequisites.h"
+	"OgreDataStream.h"
+	"OgreStringVector.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreTextureManager.h
+	"OgrePrerequisites.h"
+	"OgreResourceManager.h"
+	"OgreTexture.h"
+	"OgreSingleton.h"
+	"OgreTextureUnitState.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMeshManager.h
+	"OgrePrerequisites.h"
+	"OgreResourceManager.h"
+	"OgreSingleton.h"
+	"OgreVector.h"
+	"OgreHardwareBuffer.h"
+	"OgreHardwareVertexBuffer.h"
+	"OgrePatchSurface.h"
+	"OgreHeaderPrefix.h"
+	"OgrePlane.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgrePatchSurface.h
+	"OgrePrerequisites.h"
+	"OgreHardwareIndexBuffer.h"
+	"OgreHardwareVertexBuffer.h"
+	"OgreAxisAlignedBox.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreRTShaderSystem.h
+	"OgreShaderProgramManager.h"
+	"OgreShaderProgramWriter.h"
+	"OgreShaderGenerator.h"
+	"OgreShaderRenderState.h"
+	"OgreShaderFunction.h"
+	"OgreShaderFFPTransform.h"
+	"OgreShaderExIntegratedPSSM3.h"
+	"OgreShaderExLayeredBlending.h"
+	"OgreShaderExHardwareSkinning.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderProgramManager.h
+	"OgreShaderPrerequisites.h"
+	"OgreSingleton.h"
+	"OgreGpuProgram.h"
+	"OgreStringVector.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderPrerequisites.h
+	"OgrePrerequisites.h"
+	"OgreCommon.h"
+	"OgreRTShaderExports.h"
+	"OgreRTShaderConfig.h"
+
+1640973560 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreRTShaderExports.h
+
+1640973559 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreRTShaderConfig.h
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderProgramWriter.h
+	"OgreShaderPrerequisites.h"
+	"OgreCommon.h"
+	"OgreGpuProgramParams.h"
+	"OgreGpuProgram.h"
+	"OgreShaderParameter.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderParameter.h
+	"OgreShaderPrerequisites.h"
+	"OgreVector.h"
+	"OgreMatrix4.h"
+	"OgreGpuProgramParams.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderGenerator.h
+	"OgreShaderPrerequisites.h"
+	"OgreSingleton.h"
+	"OgreFileSystemLayer.h"
+	"OgreRenderObjectListener.h"
+	"OgreSceneManager.h"
+	"OgreShaderRenderState.h"
+	"OgreScriptTranslator.h"
+	"OgreShaderScriptTranslator.h"
+	"OgreMaterialSerializer.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreFileSystemLayer.h
+	"OgrePrerequisites.h"
+	"OgreStringVector.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreRenderObjectListener.h
+	"OgrePrerequisites.h"
+	"OgreRenderable.h"
+	"OgrePass.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderRenderState.h
+	"OgreShaderPrerequisites.h"
+	"OgreShaderSubRenderState.h"
+	"OgreShaderProgramSet.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderSubRenderState.h
+	"OgreShaderPrerequisites.h"
+	"OgreShaderScriptTranslator.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderScriptTranslator.h
+	"OgreShaderPrerequisites.h"
+	"OgreScriptTranslator.h"
+	"OgreScriptCompiler.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreScriptTranslator.h
+	"OgrePrerequisites.h"
+	"OgreScriptCompiler.h"
+	"OgreRenderSystem.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreScriptCompiler.h
+	"OgreSharedPtr.h"
+	"OgreSingleton.h"
+	"OgreScriptLoader.h"
+	"OgreGpuProgram.h"
+	"OgreAny.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderProgramSet.h
+	"OgreShaderPrerequisites.h"
+	"OgreGpuProgram.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMaterialSerializer.h
+	"OgrePrerequisites.h"
+	"OgreTextureUnitState.h"
+	"OgreGpuProgram.h"
+	"OgreStringVector.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderFunction.h
+	"OgreShaderPrerequisites.h"
+	"OgreShaderParameter.h"
+	"OgreShaderFunctionAtom.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderFunctionAtom.h
+	"OgreShaderPrerequisites.h"
+	"OgreStringVector.h"
+	"OgreGpuProgramParams.h"
+	"OgreShaderParameter.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderFFPTransform.h
+	"OgreShaderPrerequisites.h"
+	"OgreShaderSubRenderState.h"
+	"OgreShaderParameter.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderExIntegratedPSSM3.h
+	"OgreShaderPrerequisites.h"
+	"OgreCommon.h"
+	"OgreShaderSubRenderState.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderExLayeredBlending.h
+	"OgreShaderPrerequisites.h"
+	"OgreShaderFFPTexturing.h"
+	"OgreShaderSubRenderState.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderFFPTexturing.h
+	"OgreShaderPrerequisites.h"
+	"OgreShaderSubRenderState.h"
+	"OgreRenderSystem.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/RTShaderSystem/OgreShaderExHardwareSkinning.h
+	"OgreShaderPrerequisites.h"
+	"OgreShaderSubRenderState.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreMovablePlane.h
+	"OgrePrerequisites.h"
+	"OgrePlane.h"
+	"OgreMovableObject.h"
+	"OgreHeaderPrefix.h"
+	"OgreHeaderSuffix.h"
+
+1641058157 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/rlgl.h
+	"raymath.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<stdbool.h>
+
+1641132146 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/raymath.h
+	<math.h>
+
+1641056363 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/raygui.h
+
+1618570342 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1641059273 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/core.cc
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+	"config.h"
+	"raymath.h"
+	<stdlib.h>
+	<string.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"glad.h"
+	"external/glad.h"
+	<SDL2/SDL_opengl.h>
+	<EGL/egl.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<math.h>
+
+1618570342 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/glad.h
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641141399 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/rogre.h
+	"raymath.h"
+	<stdbool.h>
+
+1641123514 /media/djoker/code/linux/cpp/ogre/samples/rogre/src/input.cc
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrain.h
+	"OgreTerrainPrerequisites.h"
+	"OgreCommon.h"
+	"OgreVector.h"
+	"OgreAxisAlignedBox.h"
+	"OgreSceneManager.h"
+	"OgreTerrainMaterialGenerator.h"
+	"OgreTerrainLayerBlendMap.h"
+	"OgreWorkQueue.h"
+	"OgreTerrainLodManager.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainPrerequisites.h
+	"OgrePrerequisites.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainMaterialGenerator.h
+	"OgreTerrainPrerequisites.h"
+	"OgrePixelFormat.h"
+	"OgreSharedPtr.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainLayerBlendMap.h
+	"OgreTerrainPrerequisites.h"
+	"OgreCommon.h"
+	"OgreDataStream.h"
+	"OgreImage.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/OgreWorkQueue.h
+	"OgrePrerequisites.h"
+	"OgreAny.h"
+	"OgreSharedPtr.h"
+	"OgreCommon.h"
+	"Threading/OgreThreadHeaders.h"
+	"OgreHeaderPrefix.h"
+	<deque>
+	"OgreHeaderSuffix.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainLodManager.h
+	"OgreTerrainPrerequisites.h"
+	"OgreWorkQueue.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainGroup.h
+	"OgreTerrainPrerequisites.h"
+	"OgreTerrain.h"
+	"OgreWorkQueue.h"
+	"OgreIteratorWrapper.h"
+	"OgreConfigFile.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Paging/OgrePageManager.h
+	"OgrePagingPrerequisites.h"
+	"OgreCommon.h"
+	"OgreCamera.h"
+	"OgreFrameListener.h"
+	"OgreNameGenerator.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Paging/OgrePagingPrerequisites.h
+	"OgrePrerequisites.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainQuadTreeNode.h
+	"OgreTerrainPrerequisites.h"
+	"OgreCommon.h"
+	"OgreMovableObject.h"
+	"OgreRenderable.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainMaterialGeneratorA.h
+	"OgreTerrainPrerequisites.h"
+	"OgreTerrainMaterialGenerator.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Terrain/OgreTerrainPaging.h
+	"OgreTerrainPrerequisites.h"
+	"OgrePagedWorldSection.h"
+	"OgreCommon.h"
+
+1639349574 /media/djoker/code/linux/cpp/ogre/local/OGRE/OGRE/Paging/OgrePagedWorldSection.h
+	"OgrePagingPrerequisites.h"
+	"OgreAxisAlignedBox.h"
+
